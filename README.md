@@ -6,7 +6,7 @@ This batch file uploads a file with session of winscp
 - Log in to the target server with winscp to create a session.
 
 ## Usage and Example
-### 1. Create `_winscip.json` to target folder.
+### 1. Create `_winscp.json` to target folder.
 ```
 📁 foo
  ├✨ _winscp.json
