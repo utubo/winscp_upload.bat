@@ -2,8 +2,8 @@
 This batch file uploads a file with session of winscp
 
 ## Required
-- Set path to winscp.exe
-- Login to target server with winscp to create a session.
+- Set the path to winscp.exe
+- Log in to the target server with winscp to create a session.
 
 ## Usage and Example
 ### 1. Create `_winscip.json` to target folder.
