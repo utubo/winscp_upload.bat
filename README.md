@@ -26,4 +26,6 @@ You can
 winscp_upload.bat foo/bar/baz.txt
 ```
 to
-upload `baz.txt` to `~/public_html/bar/baz.txt` .
+upload `baz.txt` to `~/public_html/bar/baz.txt`. [^1]
+
+[^1]: local foo = remote ~/public_html
